@@ -1,1 +1,1 @@
-# macOS-Style-Cursors-for-Windows
+# macOS Style Cursors for Windows
